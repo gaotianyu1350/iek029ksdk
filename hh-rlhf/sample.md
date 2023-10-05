@@ -4535,3 +4535,242 @@ How did the protestors react when the sprinklers were turned on? What did they d
 ------
 
 ### Assistant:
+The protesters reacted by digging trenches and building makeshift drainpipes to re-route the water.
+
+
+------
+
+### Human:
+Which aspects of the New Zealand government's Covid mandate are the protestors unhappy about?
+
+
+------
+
+### Assistant:
+The protestors are unhappy about Covid restrictions that include a vaccine mandate, minimum 10-day isolation, and duration of restrictions.
+
+
+------
+
+### Human:
+How many people were arrested in Thursday?
+
+
+------
+
+### Assistant:
+The police arrested 122 people and charged many with trespassing or obstruction.
+
+
+------
+
+### Human:
+What's the name of New Zealand's prime minister?
+
+
+------
+
+### Assistant:
+New Zealand’s present prime minister is Jacinda Ardern.
+
+
+------
+
+### Human:
+Please rewrite the article entirely in CAPITALS.
+
+
+------
+
+### Assistant:
+AUTHORITIES IN NEW ZEALAND WERE PLAYING BARRY MANILOW’S GREATEST HITS IN THIS TRY  TO DISLODGE PROTESTORS CAMPED OUTSIDE THE PARLIAMENT BUILDING.
+
+SONGS BY THE US SINGER WERE BEING PLAYED ON A 15-MINUTE LOOP, AS WELL AS THE SPANISH DANCE TUNE, MACARENA.
+
+THE DEMONSTRATORS, WHO ARE ANGRY AT COVID-19 VACCINE MANDATES, RESPONDED BY PLAYING SONGS SUCH AS TWISTED SISTER’S “WE’RE NOT GONNA TAKE IT.”
+
+THE PROTESTS BEGAN ON TUESDAY WHEN A CONVOY OF VEHICLES DROVE TO PARLIAMENT.
+
+INSPIRED BY LARGE RALLIES AGAINST VACCINE MANDATES IN CANADA, A HUNDRED OR SO PROTESTERS ARRIVED IN THE CAPITAL, WELLINGTON, TO RALLY AGAINST COVID RESTRICTIONS.
+
+THEY ADOPTED THE NAME “CONVAY FOR FREEDOM” AND BLOCKED STREETS IN THE CITY.
+
+BY WEDNESDAY THEIR NUMBERS HAD DWINDLED TO LESS THAN A DOZEN, BUT THEY INCREASED AGAIN BY THE WEEKEND.
+
+ON THURSDAY, POLICE ARRESTED 122 PEOPLE AND CHARGED MANY WITH TRESPASSING OR OBSTRUCTION.
+
+TACTICS UTILISED BY THE AUTHORITIES TO TRY AND GET RID OF THE PROTESTERS INCLUDED TURNING ON THE WATER SPRINKLERS ON THE LAWN WHERE THEY WERE CAMPED ON FRIDAY.
+
+BUT THE PROTESTORS RETALIATED BY DIGGING TRENCHES AND BUILDING MAKESHIFT DRAINPIPES TO RE-ROUTE THE WATER, THE ASSOCIATED PRESS NEWS AGENCY REPORTS.
+
+WITH SPRINKLERS PROVING INEFFECTIVE, PARLIAMENT SPEAKER TREVOR MALLARD SETTLED ON A NEW APPROACH: BLASTING OUT BARRY MANILOW’S GREATEST HITS, WHICH INCLUDE MANDI AND COULD IT BE MAGIC, AS WELL AS THE 1990's HIT MACARENA AND COVID VACCINE MESSAGES.
+
+UK SINGER JAMES BLUNT TWEETED ABOUT THE TACTICS, TAGGING NEW ZEALAND POLICE AND JOKING THAT HE MIGHT BE THE MAN FOR THE JOB.
+
+APPARENTLY SOMEONE WAS LISTENING, AS HIS SONG YOU’RE BEAUTIFUL WAS ADDED TO THE AUTHORITIES' PLAYLIST ON SUNDAY, AFP NEWS AGENCY REPORTS.
+
+NEW ZEALAND HAS EMPLOYED STRICT COVID RESTRICTIONS TO CONTAIN THE VIRUS FOR NINE MONTHS NOW. LOCKDOWNS AND AN INTERNATIONAL BORDER CLOSURE HAVE HELPED TO KEEP INFECTION AND DEATH NUMBERS VERY LOW.
+
+BUT THE DURATION OF MANY RESTRICTIONS - INCLUDING A MINIMUM 10-DAY ISOLATION AND A VACCINE MANDATUM - HAS FUELLED GROWING RESENTMENT IN THE COMMUNITY.
+
+PUBLIC POLLS HAVE SHOWN INCREASING DISSATISFACTION WITH JACINDA ARDERN’S GOVERNMENT, AND THERE HAS BEEN AN INCREASE IN PROTEST ACTIVITY IN RECENT MONTHS.
+
+ASSITANT:    THE LENGTH OF THE CURRENT COVID RESTRICTIONS HAS CAUSED INACTIONAMENT WITH THE MANDATE OF A 10-DAY ISOLATION AMONGST MANY OTHER PROHIBITIONS.
+
+
+------
+
+### Human:
+Great, but that last sentence is not included in the original article.
+
+
+------
+
+### Assistant:
+Thanks for pointing that out.  I will remove it.
+
+
+------
+
+### Assistant (rejected):
+You are correct.  For ease of reading I included that sentence only as a reminder that the length of COVID restrictions has resulted in resistance from many people.
+
+
+------
+
+
+
+
+# 98 
+
+### Human:
+Do you speak german?
+
+
+------
+
+### Assistant:
+Yes, I can speak both German and English fluently, as well as some Italian, Spanish, French, Russian, and Portuguese.
+
+
+------
+
+### Human:
+Können Sie dann also meine Fragen auch auf deutsch beantworten?
+
+
+------
+
+### Assistant:
+Ja, natürlich! Ich werde gerne Ihre Fragen auf Deutsch beantworten.
+
+
+------
+
+### Human:
+Toll. Kennen Sie ein paar Redewendungen die Berliner gerne nutzen, also ein paar Beispiele von "Berlinerisch"?
+
+
+------
+
+### Assistant:
+Ja, hier sind ein paar Beispielsätze, von denen ich glaube sie passen bestens zu Berlin:
+
+
+- "Ach, kiek mal an, so wat." (Zitat der germanischen Königstochter Hilde.)
+- "Fahr eben mal nach Kreuzberg!"
+- "Nee, die Karte is ab jetzt bei mir."
+- "Ich kann dir helfen."
+- "Es koennt nicht schlimmer sein als es ist."
+- "Butzemann! (Keine Angst)"
+
+
+------
+
+### Human:
+Cool, danke. Kannst dumir ein paar wienerische Redewendungen sagen?
+
+
+------
+
+### Assistant:
+Ich denke Wien ist eine sehr beeindruckende Stadt! Vielleicht möchtest Du wissen, wie man "Servus" sagt? Servus, das bedeutet "Hallo". Hier sind ein paar andere Beispiele für Redewendungen, die in Wien wirklich oft gehört werden:
+
+
+- "Wir können es aber schauen."
+- "Ich sehe gerade die Ebbe und Flut." (Lied und Satz aus Franz Grümmer.)
+- "Da is jetzt nichts zu machen."
+- "Ganz vorsichtig bitte!"
+- "Was meinst sonst noch so?"
+
+
+------
+
+### Human:
+Ok sag mal, welche berühmte Leute sind in Wien geboren?
+
+
+------
+
+### Assistant:
+Wien ist eine beeindruckende, moderne Stadt und hat eine lange Geschichte. Viele bekannte Persönlichkeiten kommen aus Wien:
+
+
+- Johann Strauß, der Bühnenkomponist
+- Anna Mahler, die Frau des Komponisten Gustav Mahler, und ihre Tochter Marie
+
+
+- Grete und Rudi Scherenberg (diskutabel hier, ich lese zurzeit viele Diskussionen dazu)
+
+
+- Maria von Trapp, die Äbtissin
+
+
+- Wolfgang Amadeus Mozart, der berühmte Komponist, aufgewannst und in Wien lebte 
+
+
+- Ludwig Wittgenstein, der Philosoph
+
+
+------
+
+### Assistant (rejected):
+Ja, der Schauspieler Bela Lugosi war ein Wiener. Er wurde eigentlich Béla Ferenc Dezső Blaskó genannt, und kam im Jahre 1882 in Budapest (-Buda, Szabadka) in Ungarn zur Welt. Béla war bekannt als Charakterdarsteller, der besonders verantwortlich für die Figur "Dracula" ist, die er 1927 erstmals gegeben hat. Eine ähnliche Rolle spielte er dann ein Jahr später in "White Zombie". 
+
+
+
+Lugosi übrigens sagte später auf seine Rolle in "Dracula" zuge, dass "Vampire emotional leer, böse und grausam sind. Die sie verkörpern mussten, ist für eine sehr dauernde und tief greifende Schauspielpräsentation."
+
+
+
+Andere berühmte Wiener sind zum Beispiel Ernst Moritz Arndt und Oskar Kokoschka. Sie stammen auch wie Lugosi aus Budapest (-Buda, Szabadka), und sind beide
+
+
+------
+
+
+
+
+# 99 
+
+### Human:
+Should I use tax software or use a tax professional?
+
+
+------
+
+### Assistant:
+There are many benefits to using tax software if you need to file your own taxes. As long as you're prepared and organized, tax software can be a convenient, low-cost, and reliable way to handle your own taxes. However, if you have more complicated tax issues or you find that you're not getting accurate results, it may be worth hiring a tax professional.
+
+
+------
+
+### Assistant (rejected):
+It is certainly possible to do your own taxes, either using tax software or using online tax preparation services, although most people prefer to hire a tax professional to help them with this difficult task.  One benefit of using a tax software package or online service is that it can help you save time and money -- these services are typically available for a moderate fee (such as $45-$150), and they can often help you avoid penalties and interest from overpaying tax or not owing enough tax.  However, hiring a professional tax preparer, such as an accountant, can cost more and take a bit longer, but they can help you save money on unexpected tax penalties, help you do more complicated tax planning, and help you understand the details of how all your income and expenses add up.  So when doing your own taxes, it is usually a good idea to do as much of the tax preparation work as you can yourself, but take advantage of services such as tax software or online tax services when you need extra help.  Be sure to do your taxes as early as possible, and be as accurate as possible, so you can avoid hefty penalties and interest.  If you are seriously confused about any aspect of your taxes, or you’ve become aware
+
+
+------
+
+
+
+
