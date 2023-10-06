@@ -3233,7 +3233,162 @@ Hier sind die nächsten 10 Personen laut der Statistik "The Richest People on Ea
 ------
 
 ### assistant:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         assistant
+Cuando un avión no está completamente lleno, la ubicación de los pasajeros en los asientos determinados puede tener un impacto en la seguridad y el confort del vuelo. Aquí hay algunos de los factores que pueden ser influenciados:
+
+    Distribución de peso: La distribución del peso a lo largo del avión es importante para garantizar un vuelo estable y seguro. Si un avión no está lleno, la ubicación de los pasajeros puede afectar la distribución del peso y requerir que el piloto realice ajustes adicionales durante el vuelo.
+
+    Comodidad de los pasajeros: Cuando un avión no está lleno, es posible que los pasajeros tengan más espacio para moverse y estirarse, lo que puede mejorar su comodidad durante el vuelo. Sin embargo, si los pasajeros se ubican en asientos incorrectos, puede haber zonas con una mayor densidad de pasajeros, lo que puede resultar incómodo para ellos.
+
+    Protección en caso de emergencia: En caso de una emergencia, la ubicación de los pasajeros puede ser importante para garantizar una evacuación rápida y segura del avión. Si los pasajeros se ubican en asientos incorrectos, puede ser más difícil para ellos llegar a las salidas de emergencia y para los tripulantes realizar una evacuación efectiva.
+
+En resumen, aunque el hecho de que un avión no esté completamente lleno puede ofrecer más comodidad a los pasajeros, es importante que se ubiquen en los asientos correctos para garantizar un vuelo seguro y cómodo.
+
+
+------
+
+
+
+
+# 95 
+
+### user:
+What are the 10 most important factors to consider when thinking about food safety standards?
+
+
+------
+
+### assistant:
+Food safety is a crucial aspect of the food industry, and there are several factors to consider when thinking about food safety standards. Here are the 10 most important factors to consider:
+
+1. Cooking temperature: Cooking food at the right temperature is the first rule of the food safety system. The right cooking temperature kills even the most poisonous bacteria in the food products and prevents any foodborne illness. The Centers for Disease Control and Prevention (CDC) has listed a temperature range for different food products.
+
+2. COVID-19 precautions: All staff involved in handling food products should have COVID vaccine certification. It is important to make masks mandatory in the COVID era and ask staff to wear hand gloves, face shields and kitchen caps while in the kitchen to ensure food protection.
+
+3. Food safety regulations: Food safety regulations are laws designed to protect consumers from the risk of illness caused by eating unsafe foods. The U.S Food and Drug Administration (FDA) publishes guidelines for food manufacturers to follow when producing food, while the Environmental Protection Agency (EPA) publishes guidelines for restaurants. There is also a high standard of safety set forth by the U.S Department of Agriculture (USDA).
+
+4. Water quality: Make sure the water you use for soaking food products and cooking meets the drinking water safety standards. Contaminated water is a major source of E-coli and Campylobacter, which can cause severe foodborne illness. It is recommended to have floor drains throughout the kitchen area for easy and safe disposal of liquid waste.
+
+5. Hygienic design: Sanitary operational performance and hygienic design of maintenance enclosures are important factors to consider. Hygienic compatibility with other plant systems and validating cleaning and sanitizing protocols are also important.
+
+6. Pest control: Pest control plays an important part in food safety. Pests that are a risk to food safety must be controlled.
+
+7. Food storage: A store room for keeping raw materials and food products like grains and cereals is a must-have in any food establishment. If dealing primarily in frozen foods, then it is important to have a properly designed cold storage that meets your business needs.
+
+8. Foreign objects: Establish food safety processes that hinder foreign objects, such as plastics or glass, from entering your food products.
+
+9. Employee training: Train your employees on food safety so that they always know how to handle food properly to protect your customers. Educate staff on the ingredients of your food products, such as allergens, for example, in case they need to inform your customers.
+
+10. Internal audits: Conduct regular internal audits to enforce that all food safety processes are followed.
+
+
+------
+
+### user:
+What are common practices used in sushi restaurants to keep the food safe?
+
+
+------
+
+### assistant:
+Sushi restaurants use a variety of practices to keep the food safe, given the raw nature of some of the ingredients. Here are some of the most common practices used in sushi restaurants:
+
+1. Freshness of ingredients: The quality of ingredients used in sushi is paramount to ensure the safety and taste of the dish. Sushi chefs typically purchase fresh fish from trusted suppliers and inspect the fish before using it to make sushi.
+2. Proper storage: Sushi restaurants must have proper refrigeration and freezer units to store raw fish and other ingredients. These units are kept at the right temperature and monitored regularly to ensure that the ingredients are stored safely.
+3. Sanitization: Sushi chefs regularly wash their hands and use sanitizers to prevent cross-contamination of ingredients. They also wipe down surfaces and cutting boards with disinfectants to prevent bacteria from growing.
+4. Use of gloves: Sushi chefs often wear gloves when handling raw fish and other ingredients to minimize contact with the food and prevent the spread of bacteria.
+5. Preparation techniques: Sushi chefs use precise preparation techniques to ensure the safety of the food. For example, they use a special knife to fillet the fish and remove any bones, and they use sushi rice that has been properly cooked and seasoned with vinegar.
+6. Quality control: Sushi chefs carefully inspect each piece of sushi before serving it to the customer. They look for any signs of spoilage or discoloration and discard any pieces that do not meet their standards.
+
+
+------
+
+
+
+
+# 96 
+
+### user:
+Que es el agua?
+
+
+------
+
+### assistant:
+El agua es un compuesto químico inodoro, incoloro e insípido que se encuentra en la naturaleza en estado líquido, sólido y gaseoso. Es uno de los componentes más importantes de la Tierra y es esencial para la vida. La fórmula química del agua es H2O, lo que significa que está compuesto por dos átomos de hidrógeno y un átomo de oxígeno. Es un excelente solvente para muchas sustancias y se utiliza en una amplia variedad de aplicaciones industriales y domésticas.
+
+
+------
+
+
+
+
+# 97 
+
+### user:
+Haz una lista de los 3 animes más vistos a nivel mundial
+
+
+------
+
+### assistant:
+1. Dragon ball Z
+2. Naruto
+3. Ataque a los Titanes (Shingeki no Kyojin)
+
+
+------
+
+
+
+
+# 98 
+
+### user:
+Why is Theo try harding, tho?
+
+
+------
+
+### assistant:
+I'm sorry, I didn't quite understand your question, could you please rephrase it? 
+Does your question have anything to do with the rugby player Theo Harding?
+
+
+------
+
+### user:
+It was a pun question about Theo Harding. I was hoping you'll come up with a witty answer. Can you give a response answer to it?
+
+
+------
+
+### assistant:
+Sorry if I dropped the ball on that one. I am sure Theo is trying very hard. He doesn't want to end up sitting on the bench all the time like his teammate Justin Case.
+
+
+------
+
+
+
+
+# 99 
+
+### user:
+Xin chào
+
+
+------
+
+### assistant:
+Chào bạn, bạn cần giúp gì không?
+
+
+------
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       assistant
 Sorry if I dropped the ball on that one. I am sure Theo is trying very hard. He doesn't want to end up sitting on the bench all the time like his teammate Justin Case.
 
 
